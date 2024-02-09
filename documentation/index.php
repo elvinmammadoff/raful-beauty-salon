@@ -35,7 +35,7 @@
 
             <ul class="meta">
                 <li><strong>Author:</strong> <a href="https://themeforest.net/user/alissio" target="_blank">Alissio</a></li>
-                <li><strong>Live Preview:</strong> <a href="https://peppy-fudge-cee13a.netlify.app/">View Demo</a></li>
+                <li><strong>Live Preview:</strong> <a href="https://raful-beauty-salon.netlify.app/">View Demo</a></li>
                 <li><strong>Support:</strong> <span style="font-weight: 300;">alissioteam@gmail.com</span></li>
             </ul>
 
