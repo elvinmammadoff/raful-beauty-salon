@@ -1,5 +1,5 @@
 <div class="user-html user-html__with-lazy-load">          
-<a href="https://raful-beauty-salon.netlify.app/documentation/" rel="nofollow" target="_blank"><img src="https://raful-beauty-salon.netlify.app/assets/img/doc.png" alt="Raful Beauty Salon Slider - Online Documentation"></a>
+<a href="https://raful-beauty-salon.netlify.app/documentation/" rel="nofollow" target="_blank"><img src="https://raful-beauty-salon.netlify.app/src/assets/img/doc.png" alt="Raful Beauty Salon Slider - Online Documentation"></a>
 <h3 id="item-description__raful-beauty-salon-bootstrap-image-slider">Raful Beauty Salon – Bootstrap Image Slider </h3>
 <p>Raful Beauty Salon is an all-in-one package that includes unique style and functionality. It provides you customizable sliders to help create dynamic and engaging web pages. <br><br>With Raful Beauty Salon Slider you can quickly and easily add stunning slider to your website. It is easy to use, fully responsive and works seamlessly across all devices.<br><br>Choose from a variety of transition effects, control animations and customize everything from colors to fonts to create the perfect slider for your website.<br><br>Get Raful Beauty Salon Slider and take your website to the next level.</p>
 <h3 id="item-description__why-choose-raful-beauty-salon-slider">Why choose Raful Beauty Salon Slider?</h3>
